@@ -1,2 +1,2 @@
-# g_vykh
+#g_vykh
 Personal repository
